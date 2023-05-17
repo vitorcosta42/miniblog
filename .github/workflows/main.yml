@@ -3,7 +3,7 @@ name: CI/CD
 on:
   push:
     branches:
-      - main # ou a branch principal do seu projeto
+      - master # ou a branch principal do seu projeto
 
 jobs:
   build-and-deploy:
