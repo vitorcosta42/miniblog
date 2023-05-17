@@ -1,0 +1,28 @@
+
+
+form { 
+    margin-bottom: 3em;
+}
+.edit_post a { 
+    margin: 10px;
+    color: gray;
+}
+
+.edit_post a:hover { 
+    color: #023047;
+}
+
+.edit_post u { 
+    opacity: 90%;
+}
+
+.edit_post .preview_title { 
+    margin: 1em;
+    font-weight: bold;
+}
+
+.image_preview  {
+    max-width: 85%;
+    margin-bottom: 1em;
+    border-radius: 10px;    
+}
