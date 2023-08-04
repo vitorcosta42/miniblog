@@ -1,11 +1,11 @@
 <h1><a href="https://vitor-miniblog.vercel.app/" >Miniblog - Vitor Costa</a></h1>
 
 <div style="display: inline_block">
-    <img src="https://img.shields.io/badge/HTML-purple"/>
-      <img src="https://img.shields.io/badge/CSS-purple"/>
-  <img src="https://img.shields.io/badge/JavaScript-purple"/>
-  <img src="https://img.shields.io/badge/ReactJs-purple"/>
-  <img src="https://img.shields.io/badge/Firebase-purple"/>
+    <img src="https://img.shields.io/badge/HTML-blue"/>
+      <img src="https://img.shields.io/badge/CSS-blue"/>
+  <img src="https://img.shields.io/badge/JavaScript-blue"/>
+  <img src="https://img.shields.io/badge/ReactJs-blue"/>
+  <img src="https://img.shields.io/badge/Firebase-blue"/>
 </div>
 <img width="500" src= "./public/home.png" />
 
